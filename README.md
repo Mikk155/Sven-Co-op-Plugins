@@ -36,7 +36,7 @@ This repository contains Plugins for Sven Co-op, hit the name of the one of your
 <details><summary>dynamic_hostname</summary>
 <p>
 
-  dynamic_hostname is a plugin that changes dynamicaly the name of your server depending the map that is bplaying.
+  dynamic_hostname is a plugin that changes dynamicaly the name of your server depending the map that is playing.
   
   Open the dynamic_hostname.as and modify the line 1 (iszConfigFile) change it for a path of your preference.
 
