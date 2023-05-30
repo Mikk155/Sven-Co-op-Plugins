@@ -21,7 +21,17 @@ Este repositorio contiene Plugins de Sven Co-op, Toque el nombre del que le inte
 </p>
 </details>
 
+<details><summary>no_autopickup</summary>
+<p>
+
+  no_autopickup es un plugin que modifica los items en el momento en que un jugador quiere tomarlos, haciendo que estos deban presionar USE (e) para tomarlos.
+  
+</p>
+</details>
+
 # English
+
+This repository contains Plugins for Sven Co-op, hit the name of the one of your interest to see more information.
 
 <details><summary>dynamic_hostname</summary>
 <p>
@@ -37,4 +47,10 @@ Este repositorio contiene Plugins de Sven Co-op, Toque el nombre del que le inte
 </p>
 </details>
 
-This repository contains Plugins for Sven Co-op, hit the name of the one of your interest to see more information.
+<details><summary>no_autopickup</summary>
+<p>
+
+  no_autopickup is a plugin that modify the items at the moment a player wants to pick up them, forcing them to press the USE (e) key to pick up.
+  
+</p>
+</details>
