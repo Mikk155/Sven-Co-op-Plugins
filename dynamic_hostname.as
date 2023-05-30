@@ -22,6 +22,7 @@ void MapStart()
 
     if( pFile is null || !pFile.IsOpen() || KeepHostName && iszHostname.IsEmpty() )
     {
+        g_Game.AlertMessage( at_console, 'Can NOT open "' + iszConfigFile + '"\n' );
         return;
     }
 
